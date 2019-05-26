@@ -10,4 +10,4 @@
 - ОЗУ: 512 МБ
 - Дополнительно: JDK 8
 
-Альиернативная ссылка на исходный код лаунчера: https://hub.develnext.org/project/ndBGLREuWTsm
+Альтернативная ссылка на исходный код лаунчера: https://hub.develnext.org/project/ndBGLREuWTsm
