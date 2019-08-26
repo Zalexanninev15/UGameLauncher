@@ -1,5 +1,7 @@
 # UGameLauncher
 #### Альтернативная ссылка на исходный код лаунчера: https://hub.develnext.org/project/ndBGLREuWTsm
+## Скриншоты
+![alt text](https://i.imgur.com/SFCM7qy.png) ![alt text](https://i.imgur.com/u4GQNcb.png) ![alt text](https://i.imgur.com/6ci2XHd.png) ![alt text](https://i.imgur.com/jIZcMX1.png) ![alt text](https://i.imgur.com/6IK0WcB.png)
 ## Описание
 Универсальный лаунчер для абсолютно всех игр (если умело настроить).
 ## Особенности
@@ -22,5 +24,3 @@
 * UGameLauncher v1.1 = Need for Speed: Underground
 7. Запускаем и радуемся!
 #### Если будут ошибки - это нормально. Смотрите и редактируйте исходный код :)
-## Скриншоты
-![alt text](https://i.imgur.com/SFCM7qy.png) ![alt text](https://i.imgur.com/u4GQNcb.png) ![alt text](https://i.imgur.com/6ci2XHd.png) ![alt text](https://i.imgur.com/jIZcMX1.png) ![alt text](https://i.imgur.com/6IK0WcB.png)
