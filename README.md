@@ -1,4 +1,5 @@
 # UGameLauncher
+## [Скачать](https://github.com/Zalexanninev15/UGameLauncher/releases)
 #### Альтернативная ссылка на исходный код лаунчера: https://hub.develnext.org/project/ndBGLREuWTsm
 ## Описание
 Универсальный лаунчер для абсолютно всех игр (если умело настроить).
