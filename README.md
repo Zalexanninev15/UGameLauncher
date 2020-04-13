@@ -1,5 +1,5 @@
 # UGameLauncher
-## [Скачать последнюю версию](https://github.com/Zalexanninev15/UGameLauncher/releases)
+## [Скачать последнюю версию](https://github.com/Zalexanninev15/UGameLauncher/releases/tag/1.5)
 ## Скриншоты
 ![alt text](https://i.imgur.com/SFCM7qy.png) ![alt text](https://i.imgur.com/u4GQNcb.png) ![alt text](https://i.imgur.com/6ci2XHd.png) ![alt text](https://i.imgur.com/jIZcMX1.png) ![alt text](https://i.imgur.com/6IK0WcB.png)
 ## Описание
