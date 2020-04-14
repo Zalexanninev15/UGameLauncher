@@ -19,10 +19,10 @@
 3. Открываем скачанную версию лаунчера через "открытие проектов" в DevelNext
 4. Собираем проект 
 5. Выбираем "Открыть папку", копируем полученный файл и закрываем DevelNext
-6. Вставляем .exe файл в папку с игрой:
-* UGameLauncher v1.5.1 = Need for Speed: Most Wanted (2005)
-* UGameLauncher v1.5 = Need for Speed: Most Wanted (2005)
-* UGameLauncher v1.1 = Need for Speed: Underground
+6. Вставляем EXE файл в папку с игрой:
+* [UGameLauncher v1.5.1](https://github.com/Zalexanninev15/UGameLauncher/raw/master/UGameLauncher%20v1.5.1_Source_Code.zip) = Need for Speed: Most Wanted (2005)
+* [UGameLauncher v1.5](https://github.com/Zalexanninev15/UGameLauncher/raw/master/UGameLauncher%20v1.5%20Source_Code.zip) = Need for Speed: Most Wanted (2005)
+* [UGameLauncher v1.1](https://github.com/Zalexanninev15/UGameLauncher/raw/master/UGameLauncher%20v1.1%20Source_Code.zip) = Need for Speed: Underground
 7. Запускаем и радуемся!
 #### Если будут ошибки - это нормально. Смотрите и редактируйте исходный код :)
 ### Альтернативная ссылка на исходный код лаунчера: https://hub.develnext.org/project/ndBGLREuWTsm
